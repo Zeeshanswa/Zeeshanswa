@@ -1,4 +1,3 @@
-![logo](https://github.com/Zeeshanswa/Zeeshanswa/commit/7d7a2692a32ec82582ecc0b7c910ea5c0895eab9)
 <h1 align="center">Hi 👋, I'm ZEESHAN</h1>
 <h3 align="center">📊 Aspiring Data Analyst | SQL, Python & Insights Enthusiast 🚀</h3>
 
