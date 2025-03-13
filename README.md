@@ -1,3 +1,4 @@
+![logo](https://github.com/Zeeshanswa/Zeeshanswa/blob/main/DATA%20ANALYST%20GITHUB.jpeg)
 <h1 align="center">Hi 👋, I'm ZEESHAN</h1>
 <h3 align="center">📊 Aspiring Data Analyst | SQL, Python & Insights Enthusiast 🚀</h3>
 
